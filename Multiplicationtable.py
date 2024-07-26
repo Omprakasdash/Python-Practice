@@ -1,4 +1,4 @@
-#Multiplication table by using while loop
+#Multiplication table by using range():-
 for i in range(1,11):
     n=7
     a=n*i
