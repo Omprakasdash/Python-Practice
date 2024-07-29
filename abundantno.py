@@ -5,6 +5,7 @@ for i in range(1,n):
         print(i)
         s+=i
 if(s>n):
+
         print("It is an abundant number.")
 else:
         print("It is not an abundant number")
