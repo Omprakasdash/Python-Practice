@@ -1,3 +1,4 @@
+#Swapping the letters in a word without using swapcase().
 import string
 a=string.ascii_uppercase
 b=string.ascii_lowercase

@@ -1,3 +1,4 @@
+#Count the number of vowels in the given word.
 a=input("Enter the name : ")
 s=0
 for i in a:
