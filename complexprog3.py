@@ -1,3 +1,5 @@
+#Write a program to find uot the vowels and its number,consonanta and its number,digits
+# and its number and the sum of the digits within it. 
 a=input("enter the data :").split()
 print(a,type(a),len(a))
 n=''
