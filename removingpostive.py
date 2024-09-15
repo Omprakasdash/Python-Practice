@@ -2,7 +2,7 @@
 #Then store it in another list.
 even_num=[]
 odd_num=[]
-a=input("Enter the number").split()
+a=input("Enter the data").split()
 for i in a:
     if not i.isdigit():
         continue
