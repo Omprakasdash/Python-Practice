@@ -1,4 +1,4 @@
-#Eliminate duplicate value and store it in a list
+#Check the occurance of each element
 n=input()
 a=set(n)
 a=list(a)
